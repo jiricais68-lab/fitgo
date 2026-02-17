@@ -1,0 +1,7 @@
+{
+  "name": "Copy of FitGo",
+  "description": "A comprehensive fitness and health tracker for Apple Watch data, featuring AI-powered analysis of sleep, heart rate, and workouts.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
